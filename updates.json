@@ -8,6 +8,15 @@
           "update_hash": "sha256:427bd3f064e1fa1477f2377d212ada1229017bcdc26bf81d9b23d3bc401582c0"
         }
       ]
+    },
+    "{3e73221f-bf01-4a39-afea-8d841a2025b1}": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://github.com/Karobeccary/firefox-addons/releases/download/startpage-v1.0.0/startpage-1.0.0.xpi",
+          "update_hash": "sha256:7c9fcd0c284b279b81a562237fbdf9f7e650ecc00debd3f6fa646761c3eacd72"
+        }
+      ]
     }
   }
 }
