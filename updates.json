@@ -6,6 +6,11 @@
           "version": "0.3.0",
           "update_link": "https://github.com/Karobeccary/firefox-addons/releases/download/res-for-lemmy-v0.3.0/res-for-lemmy-0.3.0.xpi",
           "update_hash": "sha256:427bd3f064e1fa1477f2377d212ada1229017bcdc26bf81d9b23d3bc401582c0"
+        },
+        {
+          "version": "0.4.0",
+          "update_link": "https://github.com/Karobeccary/firefox-addons/releases/download/res-for-lemmy-v0.4.0/res-for-lemmy-0.4.0.xpi",
+          "update_hash": "sha256:1d89a05a117b6435998fbf81ea37a9276da085cefb84a394b958f3e704c44420"
         }
       ]
     },
