@@ -55,6 +55,11 @@
           "version": "1.0.8",
           "update_link": "https://github.com/Karobeccary/firefox-addons/releases/download/startpage-v1.0.8/startpage-1.0.8.xpi",
           "update_hash": "sha256:d03a7fe86c81c090d36102a61c28b91621ed9f9343024f59fadffc4cbca90cce"
+        },
+        {
+          "version": "1.0.9",
+          "update_link": "https://github.com/Karobeccary/firefox-addons/releases/download/startpage-v1.0.9/startpage-1.0.9.xpi",
+          "update_hash": "sha256:0a3a68ec8f264f45fb6af929ba23924c6363821769c04b04f598072f581de5a6"
         }
       ]
     }
